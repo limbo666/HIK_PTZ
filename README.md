@@ -1,2 +1,2 @@
 # HIK_PTZ
-### Control HIKVSION PTZ cameras using windows form application
+### Control HIKVISION PTZ cameras using windows form application
