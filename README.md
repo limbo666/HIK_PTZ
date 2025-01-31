@@ -35,7 +35,7 @@ _Tiny window mode_
 
 ## **Installation & Usage**
 
-1.  **Download the latest release** from [GitHub Releases](#).
+1.  **Download the latest release** from [GitHub Releases](https://github.com/limbo666/HIK_PTZ/releases).
 2.  **Run the application** (no installation required).
 3.  **Enter camera credentials** and connect.
 4.  **Use PTZ controls** to adjust the camera view.
